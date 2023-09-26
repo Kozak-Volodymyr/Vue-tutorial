@@ -1,0 +1,17 @@
+[
+    {
+        "link":{"text":"Home","url":"home.url"},
+        "pageTitle":"home","content":"This is home page",
+        "published":true
+
+},
+    {
+        "link":{"text":"About","url":"about.url"},
+        "pageTitle":"about","content":"about",
+        "published":true
+    },
+    {"link":{"text":"Privacy","url":"privacy.url"},
+    "pageTitle":"privacy","content":"privacy",
+    "published":false
+}
+    ]
